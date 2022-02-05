@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Abhishek Paul, an undergrad pursuing B.Tech in Electronics and Communication Engineering from National Institue of Technology, Durgapur. But I find myself more interested in development and Machine Learning aspects. :confused:
+
+Skills: C++, Java, HTML, CSS, JS, Node.js, React, Python
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpawl)](https://github.com/anuraghazra/github-readme-stats)
+
+Connect with me:
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abhishekpauler//)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/thepaulsays/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://abhishekpawl.vercel.app/)  
