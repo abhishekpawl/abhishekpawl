@@ -19,7 +19,7 @@ I am Abhishek Paul, an undergrad pursuing B.Tech in Electronics and Communicatio
 
 Skills: C++, Java, HTML, CSS, JS, Node.js, React, Python
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpawl)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpawl)](https://github.com/anuraghazra/github-readme-stats)-->
 
 Connect with me:
 
