@@ -7,7 +7,7 @@ I am Abhishek Paul, an undergrad pursuing B.Tech in Electronics and Communicatio
 ---
 
 <p align=center>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekpawl&theme=tokyonight" alt="Streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekpawl&theme=dark" alt="Streak stats"/>
 </p>
 
 ---
