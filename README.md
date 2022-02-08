@@ -29,4 +29,4 @@ I am Abhishek Paul, an undergrad pursuing B.Tech in Electronics and Communicatio
 
 **Connect with me:**
 
-[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abhishekpauler//)&emsp;[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/thepaulsays/)
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhishekpauler//)&emsp;[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg' alt='facebook' height='40'>](https://www.facebook.com/thepaulsays/)
