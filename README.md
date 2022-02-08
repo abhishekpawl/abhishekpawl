@@ -6,10 +6,10 @@ I am Abhishek Paul, an undergrad pursuing B.Tech in Electronics and Communicatio
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekpawl&theme=dark" alt="Streak stats"/>
+<p align=center>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekpawl&theme=tokyonight" alt="Streak stats"/>
 </p>
-  
+
 ---
 
 **Languages and tools:**
@@ -22,11 +22,14 @@ I am Abhishek Paul, an undergrad pursuing B.Tech in Electronics and Communicatio
 
 *Exploring:*
 
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&ensp;<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&ensp;<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpawl&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+<img width="48%" height="10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpawl&langs_count=10&theme=tokyonight&layout=compact" alt="Top langs"/>
+
 ---
 
 **Connect with me:**
 
-[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhishekpauler//)&emsp;[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg' alt='facebook' height='40'>](https://www.facebook.com/thepaulsays/)
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhishekpauler//)&emsp;[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg' alt='facebook' height='40'>](https://www.facebook.com/thepaulsays/)&emsp;[<img src='https://res.cloudinary.com/dyiwzykis/image/upload/v1644323007/instagram-icon_ehmkeb.svg' alt='instagram' height='40'>](https://www.instagram.com/abhishekpawl/)
