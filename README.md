@@ -26,7 +26,7 @@ I am Abhishek Paul, an undergrad pursuing B.Tech in Electronics and Communicatio
 
 ---
 
-**If you're a developer try adding this to your chrome. :grin:**
+**If you're a developer try adding this to your chrome or firefox. :grin:**
 
 <a href="https://github.com/abhishekpawl/localhost"><img width="48%" height="10%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekpawl&repo=localhost&theme=tokyonight&layout=compact" alt="localhost"></a>
 
