@@ -2,7 +2,7 @@
 
 ---
 
-I am Abhishek Paul, an undergrad pursuing B.Tech in Electronics and Communication Engineering from National Institue of Technology, Durgapur. But I find myself more interested in development and Machine Learning aspects. :confused:
+Abhishek Paul: I graduated from National Institue of Technology, Durgapur and completed B.Tech in Electronics and Communication Engineering. But I find myself more interested in development and Machine Learning aspects. :confused:
 
 ---
 
@@ -18,7 +18,7 @@ I am Abhishek Paul, an undergrad pursuing B.Tech in Electronics and Communicatio
 
 *Machine Learning with Python:*
 
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />&ensp;<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />&ensp;<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />&ensp;<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />&ensp;<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />&ensp;<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" />&ensp;<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" />
 
 *Exploring:*
 
