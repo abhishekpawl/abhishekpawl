@@ -1,45 +1,73 @@
-### Hi there 👋
+<h1 align="center">Abhishek Paul</h1>
+<p align="center">
+  Software Engineer · AI Systems · Backend Platforms
+</p>
 
----
-
-Abhishek Paul: I graduated from National Institue of Technology, Durgapur and completed B.Tech in Electronics and Communication Engineering. But I find myself more interested in development and Machine Learning aspects. :confused:
-
----
-
-<p align=center>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekpawl&theme=dark" alt="Streak stats"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishekpauler/">LinkedIn</a> ·
+  <a href="https://github.com/abhishekpawl">GitHub</a>
 </p>
 
 ---
 
-**Languages and tools:**
+### About
 
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />&ensp;<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />&ensp;<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&ensp;<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&ensp;<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&ensp;<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />&ensp;<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&ensp;<img height="50" src="https://res.cloudinary.com/dyiwzykis/image/upload/v1644261862/ejs_icon_132422_of78ol.svg" />&ensp;<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&ensp;<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&ensp;<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />&ensp;<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />&ensp;<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />&ensp;<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />&ensp;<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />&ensp;<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />&ensp;<img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></img>&ensp;<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&ensp;<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />&ensp;<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&ensp;<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+Software Engineer at **Wells Fargo** building scalable backend systems and AI-driven platforms.  
+Graduated from **NIT Durgapur (ECE)**.
 
-*Machine Learning with Python:*
-
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />&ensp;<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />&ensp;<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />&ensp;<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" />&ensp;<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" />
-
-*Exploring:*
-
-<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />&ensp;<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&ensp;<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />&ensp;<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-
-*Certifications:*
-
-1. [AZ-900](https://learn.microsoft.com/en-in/users/abhishekpaul-7379/transcript/v2z88sj3mnymrzn)
+Focused on:
+- AI/ML systems in production
+- Backend architecture & distributed systems
+- Data pipelines and real-time processing
 
 ---
 
-**If you're a developer try adding this to your chrome or firefox. :grin:**
+### Impact
 
-<a href="https://github.com/abhishekpawl/localhost"><img width="48%" height="10%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekpawl&repo=localhost&theme=tokyonight&layout=compact" alt="localhost"></a>
+- Built a **GenAI-powered SDLC validation platform**  
+  → Automated compliance across Jira, ServiceNow, and internal systems
+
+- Developed **real-time compliance dashboards**  
+  → Reduced manual monitoring and improved visibility
+
+- Designed **predictive maintenance models**  
+  → Increased operational efficiency using ML
+
+- Built a **Splitwise-like expense settlement app**  
+  → Optimized transactions using greedy algorithms
+
+- Created a **SaaS chatbot platform**  
+  → Knowledge-based conversational system (Flask + React)
 
 ---
 
-<img width="48%" height="10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpawl&langs_count=10&theme=tokyonight&layout=compact" alt="Top langs"/>
+### Tech Stack
+
+**Languages:** Python, C++, JavaScript, TypeScript, SQL  
+**Frontend:** React, MUI  
+**Backend:** Flask, Node.js, Express  
+**Data/ML:** Pandas, NumPy, TensorFlow, OpenCV, Scikit-learn  
+**Databases:** PostgreSQL, MongoDB, Oracle  
+**Infra/Tools:** Docker, GitHub, Harness, Linux  
 
 ---
 
-**Connect with me:**
+### Certifications
 
-[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhishekpauler//)&emsp;[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg' alt='facebook' height='40'>](https://www.facebook.com/thepaulsays/)&emsp;[<img src='https://res.cloudinary.com/dyiwzykis/image/upload/v1644323007/instagram-icon_ehmkeb.svg' alt='instagram' height='40'>](https://www.instagram.com/abhishekpawl/)
+- [Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-in/users/abhishekpaul-7379/transcript/v2z88sj3mnymrzn)  
+- Azure AI Fundamentals (AI-900)
+
+---
+
+### GitHub
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekpawl&theme=default" />
+</p>
+
+
+---
+
+### Contact
+
+- LinkedIn: https://www.linkedin.com/in/abhishekpauler/
